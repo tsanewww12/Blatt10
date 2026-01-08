@@ -116,7 +116,7 @@ class Cell {
         this(indexRow, indexCol, false);
     }
 
-    // Getters / Setters
+    
     public int getIndexRow() {
         return indexRow;
     }
